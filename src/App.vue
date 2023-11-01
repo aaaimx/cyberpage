@@ -12,7 +12,7 @@
                         <a class="nav-link active" aria-current="page" href="#header">HOME</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#ABOUT">ABOUT</a>
+                        <a class="nav-link" href="#ABOUT">EVENTS</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="#RESOURCES">RESOURCES</a>
@@ -40,7 +40,7 @@
 𝐶𝑖𝑏𝑒𝑟|𝐻𝑎𝑐𝑘.𝑝𝑦 es un vibrante club estudiantil formado por apasionados del hacking ético y la ciberseguridad. En nuestro club, fomentamos el aprendizaje, la colaboración y la exploración de las disciplinas relacionadas con la seguridad informática. Nuestra comunidad está compuesta por estudiantes y entusiastas que comparten un interés común en fortalecer sus habilidades, entender las amenazas cibernéticas y promover prácticas seguras en línea.
                             
                         </p>
-                        <a class="btn-solid-lg" href="#ABOUT">ABOUT US</a>
+                        <a class="btn-solid-lg" href="#ABOUT">EVENTS</a>
                     </div>
                 </div>
                 <div class="col-lg-6 col-xl-7">
@@ -55,7 +55,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
-                    <h2>Entrena y participa en los eventos más destacados de hacking ético</h2>
+                    <h2>Entrena y participa en los eventos más destacados del hacking ético</h2>
                 </div>
             </div>
             <div class="row">
@@ -67,7 +67,7 @@
                         <div class="card-body">
                             <h5 class="card-title">YUCATÁN I6 2024</h5>
                               <img class="img-fluid" src="assets/images/Yucatan6.png" alt="alternative" width="70%" />
-                            <p>El “Capture The Flag Yucatán i6 2024” es un concurso dedicado a las tácticas, técnicas y procedimientos de hacking ético para la identificación y explotación de vulnerabilidades, tanto físicas como digitales. Para más información, consulta la convocatoria.</p>
+                            <p>El “Capture The Flag Yucatán i6 2024” es un concurso dedicado a las tácticas, técnicas y procedimientos del hacking ético para la identificación y explotación de vulnerabilidades, tanto físicas como digitales. Para más información, consulta la convocatoria.</p>
                         
                         </div>
                     </div>
@@ -90,7 +90,7 @@
                             <span class="far fa-clipboard"></span>
                         </div> -->
                         <div class="card-body">
-                            <h5 class="card-title">HackMex</h5>
+                            <h5 class="card-title">Hackmex</h5>
                              <img class="img-fluid" src="assets/images/hackmex.png" alt="alternative" width="70%" />
                             <p>Participa en diferentes escenarios de ataque-defensa especialmente diseñados para que los participantes
 puedan analizar, descubrir y explotar vulnerabilidades, ganando puntos en cada
@@ -115,7 +115,7 @@ hallazgo.</p>
                     <div class="text-container">
                         <div class="section-title">Pláticas, talleres y competencias hacking</div>
                         <h2>CyberQuest: CTF</h2>
-                        <p>¡Participa en nuestro CyberQuest: CTF, penetra vulnerabilidades, hackea y prepárate con nosotros para los eventos más importantes de hacking ético!</p>
+                        <p>¡Participa en nuestro CyberQuest: CTF, penetra vulnerabilidades, hackea y prepárate con nosotros para los eventos más importantes del hacking ético!</p>
                         <a class="btn-solid-reg" href="#contact">inscríbete</a>
                         <p>No tienes que tener experiencia!</p>
                     </div>
@@ -123,32 +123,13 @@ hallazgo.</p>
             </div>
         </div>
     </div>
-    <div class="basic-2">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-6 col-xl-5">
-                    <div class="text-container">
-                        <div class="section-title">ABOUT US</div>
-                        <h2>We have ten years experience in marketing</h2>
-                        <p>Impartimos cursos constantemente debido al gran crecimiento de datos</p>
-                        <a class="btn-outline-reg" href="#">RESOURCES</a>
-                    </div>
-                </div>
-                <div class="col-lg-6 col-xl-7">
-                    <div class="image-container">
-                        <img class="img-fluid" src="assets/images/details-2.png" alt="alternative" />
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
+   
     <div id="features" class="accordion-1">
         <div class="container">
             <div class="row">
                 <div class="col-xl-12">
-                    <h2 class="h2-heading">Mostrar la competencia de Pacman vs Complutense</h2>
-                    <p class="p-heading">Elias pon algo aquí por fas Suspendisse vitae enim arcu. Aliquam convallis risus a felis blandit, at mollis
-                        nisi bibendum. Aliquam nec purus at ex blandit posuere nec a odio. Proin lacinia dolor justo</p>
+                    <h2 class="h2-heading">REGLAS Y RECURSOS</h2>
+                    <p class="p-heading">Revisa las reglas de nuestro evento CyberQuest: CTF para obtener más información y obten los recursos necesarios para participar</p>
                 </div>
             </div>
             <div class="row">
@@ -160,17 +141,15 @@ hallazgo.</p>
                             <div class="accordion-icon">
                                 <span class="fas fa-tv"></span>
                             </div>
-                            <div class="accordion-header" id="headingOne">
+                            <div class="bi bi-archive-fill" id="headingOne">
                                 <button class="accordion-button" type="button" data-bs-toggle="collapse"
                                     data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                                    Analyse the product and design plan
+                                   Kali Linux
                                 </button>
                             </div>
                             <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne"
                                 data-bs-parent="#accordionExample">
-                                <div class="accordion-body">Mauris ornare libero et pharetra hendrerit. Cura elementum
-                                    lectus quis tellus pretium, vitae lobortis dui sagittis aliquam et enim vel semon
-                                    anticus</div>
+                                <div class="accordion-body"> Puedes descargar Kali Linux desde: https://www.kali.org/
                             </div>
                         </div>
 
@@ -182,14 +161,12 @@ hallazgo.</p>
                             <div class="accordion-header" id="headingTwo">
                                 <button class="accordion-button" type="button" data-bs-toggle="collapse"
                                     data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                    Find the market opportunities
+                                    Virtual Box
                                 </button>
                             </div>
                             <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo"
                                 data-bs-parent="#accordionExample">
-                                <div class="accordion-body">Mauris ornare libero et pharetra hendrerit. Cura elementum
-                                    lectus quis tellus pretium, vitae lobortis dui sagittis aliquam et enim vel semon
-                                    anticus</div>
+                                <div class="accordion-body"> Si deseas virtualizar Kali Linux, te recomendamos utilizar VirtualBox, que puedes encontrar en el siguiente enlace: https://www.virtualbox.org/</div>
                             </div>
                         </div>
 
