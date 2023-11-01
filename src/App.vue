@@ -62,8 +62,8 @@
                             <span class="far fa-comments"></span>
                         </div> -->
                         <div class="card-body">
-                            <h5 class="card-title">Visión</h5>
-                            <p>Aportar al progreso de la Inteligencia Artificial</p>
+                            <h5 class="card-title">YUCATÁN I6 2024</h5>
+                            <p>El “Capture The Flag Yucatán i6 2023” es un concurso dedicado a las tácticas, técnicas y procedimientos de hacking ético para la identificación y explotación de vulnerabilidades, tanto físicas como digitales. Para más información, consulta la convocatoria.</p>
                             <a class="read-more no-line" href="#">Learn more <span class="fas fa-long-arrow-alt-right"></span></a>
                         </div>
                     </div>
