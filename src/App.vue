@@ -35,8 +35,11 @@
             <div class="row">
                 <div class="col-lg-6 col-xl-5">
                     <div class="text-container">
-                        <h1 class="h1-large">AAAIMX</h1>
-                        <p class="p-large">Formamos parte del Capítulo Estudiantil AAAIMX para el cual colaboramos impartiendo cursos, talleres, pláticas, conferencias, desarrollo de algoritmos e investigación de Inteligencia Artificial</p>
+                        <h1 class="h1-large">𝐶𝑖𝑏𝑒𝑟|𝐻𝑎𝑐𝑘.𝑝𝑦</h1>
+                        <p class="p-large">
+𝐶𝑖𝑏𝑒𝑟|𝐻𝑎𝑐𝑘.𝑝𝑦 es un vibrante club estudiantil formado por apasionados del hacking ético y la ciberseguridad. En nuestro club, fomentamos el aprendizaje, la colaboración y la exploración de las disciplinas relacionadas con la seguridad informática. Nuestra comunidad está compuesta por estudiantes y entusiastas que comparten un interés común en fortalecer sus habilidades, entender las amenazas cibernéticas y promover prácticas seguras en línea.
+                            
+                        </p>
                         <a class="btn-solid-lg" href="#ABOUT">ABOUT US</a>
                     </div>
                 </div>
