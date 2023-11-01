@@ -66,7 +66,7 @@
                         </div> -->
                         <div class="card-body">
                             <h5 class="card-title">YUCATÁN I6 2024</h5>
-                              <img class="img-fluid" src="assets/images/header-image.png" alt="alternative" width="125%" />
+                              <img class="img-fluid" src="assets/images/Yuci6.png" alt="alternative" width="125%" />
                             <p>El “Capture The Flag Yucatán i6 2023” es un concurso dedicado a las tácticas, técnicas y procedimientos de hacking ético para la identificación y explotación de vulnerabilidades, tanto físicas como digitales. Para más información, consulta la convocatoria.</p>
                         
                         </div>
@@ -79,6 +79,7 @@
                         </div> -->
                         <div class="card-body">
                             <h5 class="card-title">HackHowl</h5>
+                              <img class="img-fluid" src="assets/images/hackmex.png" alt="alternative" width="125%" />
                             <p>Evento de Captura la Bandera (CTF) y Recompensa por Bugs (Bug Bounty) organizado por la AAAIMX. Prepárate para armar tu equipo y poner a prueba tus habilidades. </p>
                            
                         </div>
