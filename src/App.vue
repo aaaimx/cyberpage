@@ -52,7 +52,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
-                    <h2>Explore our ABOUT</h2>
+                    <h2>Entrena y participa en los eventos más destacados de hacking ético</h2>
                 </div>
             </div>
             <div class="row">
@@ -64,7 +64,7 @@
                         <div class="card-body">
                             <h5 class="card-title">YUCATÁN I6 2024</h5>
                             <p>El “Capture The Flag Yucatán i6 2023” es un concurso dedicado a las tácticas, técnicas y procedimientos de hacking ético para la identificación y explotación de vulnerabilidades, tanto físicas como digitales. Para más información, consulta la convocatoria.</p>
-                            <a class="read-more no-line" href="#">Learn more <span class="fas fa-long-arrow-alt-right"></span></a>
+                        
                         </div>
                     </div>
 
@@ -74,9 +74,9 @@
                             <span class="fa-clipboard"></span>
                         </div> -->
                         <div class="card-body">
-                            <h5 class="card-title">¿Qué hacemos?</h5>
-                            <p>Formamos parte de la AAAIMX en la cual realizamos talleres, conferencias e investigación de Inteligencia Artificial</p>
-                            <a class="read-more no-line" href="#">Learn more <span class="fas fa-long-arrow-alt-right"></span></a>
+                            <h5 class="card-title">HackHowl</h5>
+                            <p>Evento de Captura la Bandera (CTF) y Recompensa por Bugs (Bug Bounty) organizado por la AAAIMX. Prepárate para armar tu equipo y poner a prueba tus habilidades. </p>
+                           
                         </div>
                     </div>
 
@@ -85,9 +85,11 @@
                             <span class="far fa-clipboard"></span>
                         </div> -->
                         <div class="card-body">
-                            <h5 class="card-title">Proyectos</h5>
-                            <p>Stable Diffution</p>
-                            <a class="read-more no-line" href="#">Learn more <span class="fas fa-long-arrow-alt-right"></span></a>
+                            <h5 class="card-title">HackMex</h5>
+                            <p>Participa en diferentes escenarios de ataque-defensa especialmente diseñados para que los participantes
+puedan analizar, descubrir y explotar vulnerabilidades, ganando puntos en cada
+hallazgo.</p>
+                          
                         </div>
                     </div>
 
