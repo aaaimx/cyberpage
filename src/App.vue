@@ -79,7 +79,7 @@
                         </div> -->
                         <div class="card-body">
                             <h5 class="card-title">HackHowl</h5>
-                              <img class="img-fluid" src="assets/images/HackHowl.png" alt="alternative" width="100%" />
+                              <img class="img-fluid" src="assets/images/HackHowlV2.png" alt="alternative" width="100%" />
                             <p>Evento de Captura la Bandera (CTF) y Recompensa por Bugs (Bug Bounty) organizado por la AAAIMX. Prepárate para armar tu equipo y poner a prueba tus habilidades. </p>
                            
                         </div>
