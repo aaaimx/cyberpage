@@ -1,7 +1,7 @@
 <template>
     <nav id="navbarExample" class="navbar navbar-expand-lg fixed-top navbar-light" aria-label="Main navigation">
         <div class="container">
-            <a class="navbar-brand logo-text" href="#">Machine Learning Division</a>
+            <a class="navbar-brand logo-text" href="#">Ciber | Hack.py</a>
             <button class="navbar-toggler p-0 border-0" type="button" id="navbarSideCollapse"
                 aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
