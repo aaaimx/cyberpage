@@ -45,7 +45,7 @@
                 </div>
                 <div class="col-lg-6 col-xl-7">
                     <div class="image-container">
-                        <img class="img-fluid" src="assets/images/header-image.png" alt="alternative" width="100%" />
+                        <img class="img-fluid" src="assets/images/Logocyber.png" alt="alternative" width="100%" />
                     </div>
                 </div>
             </div>
@@ -67,7 +67,7 @@
                         <div class="card-body">
                             <h5 class="card-title">YUCATÁN I6 2024</h5>
                               <img class="img-fluid" src="assets/images/Yucatan6.png" alt="alternative" width="70%" />
-                            <p>El “Capture The Flag Yucatán i6 2023” es un concurso dedicado a las tácticas, técnicas y procedimientos de hacking ético para la identificación y explotación de vulnerabilidades, tanto físicas como digitales. Para más información, consulta la convocatoria.</p>
+                            <p>El “Capture The Flag Yucatán i6 2024” es un concurso dedicado a las tácticas, técnicas y procedimientos de hacking ético para la identificación y explotación de vulnerabilidades, tanto físicas como digitales. Para más información, consulta la convocatoria.</p>
                         
                         </div>
                     </div>
@@ -108,16 +108,16 @@ hallazgo.</p>
             <div class="row">
                 <div class="col-lg-6 col-xl-7">
                     <div class="image-container">
-                        <img class="img-fluid" src="assets/images/details-1.png" alt="alternative" />
+                        <img class="img-fluid" src="assets/images/cyberpioct.png" alt="alternative" />
                     </div>
                 </div>
                 <div class="col-lg-6 col-xl-5">
                     <div class="text-container">
-                        <div class="section-title">Pláticas y conferencias</div>
-                        <h2>DataClub</h2>
-                        <p>Impartimos cursos constantemente debido al gran crecimiento de datos</p>
-                        <a class="btn-solid-reg" href="#contact">Colabora con nosotros</a>
-                        <p>Es gratis</p>
+                        <div class="section-title">Pláticas, talleres y competencias hacking</div>
+                        <h2>CyberQuest: CTF</h2>
+                        <p>¡Participa en nuestro CyberQuest: CTF, penetra vulnerabilidades, hackea y prepárate con nosotros para los eventos más importantes de hacking ético!</p>
+                        <a class="btn-solid-reg" href="#contact">inscríbete</a>
+                        <p>No tienes que tener experiencia!</p>
                     </div>
                 </div>
             </div>
