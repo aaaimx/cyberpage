@@ -15,7 +15,7 @@
 <!-- end banner -->
 
 
-# Machine Learning Division Page
+# Website for Cybersecurity event
 This is repo for pagesite for information about us.
 
 ## Project setup
