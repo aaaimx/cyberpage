@@ -141,7 +141,7 @@ hallazgo.</p>
                             <div class="accordion-icon">
                                 <span class="fas fa-tv"></span>
                             </div>
-                            <div class="bi bi-archive-fill" id="headingOne">
+                            <div class="accordion-header" id="headingOne">
                                 <button class="accordion-button" type="button" data-bs-toggle="collapse"
                                     data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
                                    Kali Linux
