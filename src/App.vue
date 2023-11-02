@@ -222,65 +222,13 @@ hallazgo.</p>
         </div>
     </div>
      <hr class="section-divider" />
-    <div id="contact" class="form-1">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-6">
-                    <div class="text-container">
-                        <div class="section-title">GET QUOTE</div>
-                        <h2>Submit the form for quote</h2>
-                        <p>Aliquam et enim vel sem pulvinar suscipit sit amet quis lorem. Sed risus ipsum, egestas sed
-                            odio in, pulvinar euismod ipsum. Sed ut enim non nunc fermentum dictum et sit amet erat.
-                            Maecenas</p>
-                        <ul class="list-unstyled li-space-lg">
-                            <li class="d-flex">
-                                <i class="fas fa-square"></i>
-                                <div class="flex-grow-1">Vel maximus nunc aliquam ut. Donec semper, magna a pulvinar
-                                </div>
-                            </li>
-                            <li class="d-flex">
-                                <i class="fas fa-square"></i>
-                                <div class="flex-grow-1">Suscipit sit amet quis lorem. Sed risus ipsum, egestas mare
-                                </div>
-                            </li>
-                            <li class="d-flex">
-                                <i class="fas fa-square"></i>
-                                <div class="flex-grow-1">Sem pulvinar suscipit sit amet quis lorem. Sed risus</div>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="col-lg-6">
-
-                    <form>
-                        <div class="form-group">
-                            <input type="text" class="form-control-input" placeholder="Name" required />
-                        </div>
-                        <div class="form-group">
-                            <input type="email" class="form-control-input" placeholder="Email" required />
-                        </div>
-                        <div class="form-group">
-                            <input type="text" class="form-control-input" placeholder="Industry" required />
-                        </div>
-                        <div class="form-group">
-                            <input type="text" class="form-control-input" placeholder="Your product" required />
-                        </div>
-                        <div class="form-group">
-                            <button type="submit" class="form-control-submit-button">Submit</button>
-                        </div>
-                    </form>
-
-                </div>
-            </div>
-        </div>
-    </div>
     <div class="footer bg-gray">
         <img class="decoration-circles" src="assets/images/decoration-circles.png" alt="alternative" />
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
-                    <h4>If you want to find out which are the right influencers for your product marketing campaigns
-                        then follow us</h4>
+                    <h4>La seguridad no es un producto, es un proceso. 
+                        - Bruce Schneier</h4>
                     <div class="social-container">
                         <span class="fa-stack">
                             <a href="#your-link">
