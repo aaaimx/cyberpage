@@ -103,6 +103,7 @@ hallazgo.</p>
             </div>
         </div>
     </div>
+     <hr class="section-divider" />
     <div id="RESOURCES" class="basic-1">
         <div class="container">
             <div class="row">
@@ -123,7 +124,7 @@ hallazgo.</p>
             </div>
         </div>
     </div>
-   
+    <hr class="section-divider" />
 
         <div class="container">
             <div class="row">
@@ -203,128 +204,8 @@ hallazgo.</p>
             </div>
         </div>
     </div>
-    <div class="cards-2 bg-gray">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12">
-                    <h2 class="h2-heading">Customer testimonials</h2>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-lg-12">
 
-                    <div class="card">
-                        <img class="quotes" src="assets/images/quotes.svg" alt="alternative" />
-                        <div class="card-body">
-                            <p class="testimonial-text">Suspendisse vitae enim arcu. Aliqu convallis risus a felis
-                                blandit, at mollis nisi bibendum aliquam noto ricos</p>
-                            <div class="testimonial-author">Roe Smith</div>
-                            <div class="occupation">General Manager, Presentop</div>
-                        </div>
-                        <div class="gradient-floor red-to-blue"></div>
-                    </div>
-
-
-                    <div class="card">
-                        <img class="quotes" src="assets/images/quotes.svg" alt="alternative" />
-                        <div class="card-body">
-                            <p class="testimonial-text">Suspendisse vitae enim arcu. Aliqu convallis risus a felis
-                                blandit, at mollis nisi bibendum aliquam noto ricos</p>
-                            <div class="testimonial-author">Sam Bloom</div>
-                            <div class="occupation">General Manager, Presentop</div>
-                        </div>
-                        <div class="gradient-floor blue-to-purple"></div>
-                    </div>
-
-
-                    <div class="card">
-                        <img class="quotes" src="assets/images/quotes.svg" alt="alternative" />
-                        <div class="card-body">
-                            <p class="testimonial-text">Suspendisse vitae enim arcu. Aliqu convallis risus a felis
-                                blandit, at mollis nisi bibendum aliquam noto ricos</p>
-                            <div class="testimonial-author">Bill McKenzie</div>
-                            <div class="occupation">General Manager, Presentop</div>
-                        </div>
-                        <div class="gradient-floor purple-to-green"></div>
-                    </div>
-
-
-
-                    <div class="card">
-                        <img class="quotes" src="assets/images/quotes.svg" alt="alternative" />
-                        <div class="card-body">
-                            <p class="testimonial-text">Suspendisse vitae enim arcu. Aliqu convallis risus a felis
-                                blandit, at mollis nisi bibendum aliquam noto ricos</p>
-                            <div class="testimonial-author">Vanya Dropper</div>
-                            <div class="occupation">General Manager, Presentop</div>
-                        </div>
-                        <div class="gradient-floor red-to-blue"></div>
-                    </div>
-
-
-                    <div class="card">
-                        <img class="quotes" src="assets/images/quotes.svg" alt="alternative" />
-                        <div class="card-body">
-                            <p class="testimonial-text">Suspendisse vitae enim arcu. Aliqu convallis risus a felis
-                                blandit, at mollis nisi bibendum aliquam noto ricos</p>
-                            <div class="testimonial-author">Lefty Brown</div>
-                            <div class="occupation">General Manager, Presentop</div>
-                        </div>
-                        <div class="gradient-floor blue-to-purple"></div>
-                    </div>
-
-
-                    <div class="card">
-                        <img class="quotes" src="assets/images/quotes.svg" alt="alternative" />
-                        <div class="card-body">
-                            <p class="testimonial-text">Suspendisse vitae enim arcu. Aliqu convallis risus a felis
-                                blandit, at mollis nisi bibendum aliquam noto ricos</p>
-                            <div class="testimonial-author">Susane Blake</div>
-                            <div class="occupation">General Manager, Presentop</div>
-                        </div>
-                        <div class="gradient-floor purple-to-green"></div>
-                    </div>
-
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="slider-1">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12">
-                    <h4>Trusted by over <span class="blue">5000</span> customers worldwide</h4>
-                    <hr class="section-divider" />
-
-                    <div class="slider-container">
-                        <div class="swiper-container image-slider">
-                            <div class="swiper-wrapper">
-                                <div class="swiper-slide">
-                                    <img class="img-fluid" src="assets/images/customer-logo-1.png" alt="alternative" />
-                                </div>
-                                <div class="swiper-slide">
-                                    <img class="img-fluid" src="assets/images/customer-logo-2.png" alt="alternative" />
-                                </div>
-                                <div class="swiper-slide">
-                                    <img class="img-fluid" src="assets/images/customer-logo-3.png" alt="alternative" />
-                                </div>
-                                <div class="swiper-slide">
-                                    <img class="img-fluid" src="assets/images/customer-logo-4.png" alt="alternative" />
-                                </div>
-                                <div class="swiper-slide">
-                                    <img class="img-fluid" src="assets/images/customer-logo-5.png" alt="alternative" />
-                                </div>
-                                <div class="swiper-slide">
-                                    <img class="img-fluid" src="assets/images/customer-logo-6.png" alt="alternative" />
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                </div>
-            </div>
-        </div>
-    </div>
+    <hr class="section-divider" />
     ]
     <div class="basic-3">
         <div class="container">
@@ -340,6 +221,7 @@ hallazgo.</p>
             </div>
         </div>
     </div>
+     <hr class="section-divider" />
     <div id="contact" class="form-1">
         <div class="container">
             <div class="row">
