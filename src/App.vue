@@ -149,8 +149,8 @@ hallazgo.</p>
                             </div>
                             <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne"
                                 data-bs-parent="#accordionExample">
-                                <div class="accordion-body"> Puedes descargar Kali Linux desde: https://www.kali.org/
-                            </div>
+                                <div class="accordion-body">Puedes descargar Kali Linux desde: <a href="https://www.kali.org/">https://www.kali.org/</a></div>
+
                         </div>
 
 
@@ -166,8 +166,8 @@ hallazgo.</p>
                             </div>
                             <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo"
                                 data-bs-parent="#accordionExample">
-                                <div class="accordion-body"> Si deseas virtualizar Kali Linux, te recomendamos utilizar VirtualBox, que puedes encontrar en el siguiente enlace: https://www.virtualbox.org/</div>
-                            </div>
+                               <div class="accordion-body">Si deseas virtualizar Kali Linux, te recomendamos utilizar VirtualBox, que puedes encontrar en el siguiente enlace: <a href="https://www.virtualbox.org/">https://www.virtualbox.org/</a></div>
+
                         </div>
 
 
@@ -178,36 +178,18 @@ hallazgo.</p>
                             <div class="accordion-header" id="headingThree">
                                 <button class="accordion-button" type="button" data-bs-toggle="collapse"
                                     data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                    Prepare the product launch campaign
+                                    Reglas
                                 </button>
                             </div>
                             <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree"
                                 data-bs-parent="#accordionExample">
-                                <div class="accordion-body">Mauris ornare libero et pharetra hendrerit. Cura elementum
-                                    lectus quis tellus pretium, vitae lobortis dui sagittis aliquam et enim vel semon
-                                    anticus</div>
+                                <div class="accordion-body">Accede al siguiente link y revisa las reglas: </div>
                             </div>
                         </div>
 
 
 
-                        <div class="accordion-item">
-                            <!-- <div class="accordion-icon orange">
-                                <span class="fas fa-tools"></span>
-                            </div> -->
-                            <div class="accordion-header" id="headingFour">
-                                <button class="accordion-button" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                                    Evaluate the campaign and adjust
-                                </button>
-                            </div>
-                            <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour"
-                                data-bs-parent="#accordionExample">
-                                <div class="accordion-body">Mauris ornare libero et pharetra hendrerit. Cura elementum
-                                    lectus quis tellus pretium, vitae lobortis dui sagittis aliquam et enim vel semon
-                                    anticus</div>
-                            </div>
-                        </div>
+                      
 
                     </div>
                 </div>
