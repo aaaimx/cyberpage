@@ -125,7 +125,7 @@ hallazgo.</p>
     </div>
     <hr class="section-divider" />
 
-        <div id="ABOUT" class="container">
+        <div id="features" class="container">
             <div class="row">
                 <div class="col-xl-12">
                     <h2 class="h2-heading">REGLAS Y RECURSOS</h2>
