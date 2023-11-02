@@ -18,11 +18,9 @@
                         <a class="nav-link" href="#RESOURCES">RESOURCES</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#features">PROJECTS</a>
+                        <a class="nav-link" href="#features">RULES AND RESOURCES</a>
                     </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#features">FAGS</a>
-                    </li>
+                   
                 </ul>
                 <span class="nav-item">
                     <a class="btn-solid-sm" href="#contact">JOIN UP</a>
@@ -35,7 +33,7 @@
             <div class="row">
                 <div class="col-lg-6 col-xl-5">
                     <div class="text-container">
-                        <h1 class="h1-large">𝐶𝑖𝑏𝑒𝑟|𝐻𝑎𝑐𝑘.𝑝𝑦</h1>
+                        <h1 class="h1-large">𝐶𝑖𝑏𝑒𝑟 | 𝐻𝑎𝑐𝑘.𝑝𝑦</h1>
                         <p class="p-large">
 𝐶𝑖𝑏𝑒𝑟|𝐻𝑎𝑐𝑘.𝑝𝑦 es un vibrante club estudiantil formado por apasionados del hacking ético y la ciberseguridad. En nuestro club, fomentamos el aprendizaje, la colaboración y la exploración de las disciplinas relacionadas con la seguridad informática. Nuestra comunidad está compuesta por estudiantes y entusiastas que comparten un interés común en fortalecer sus habilidades, entender las amenazas cibernéticas y promover prácticas seguras en línea.
                             
@@ -50,6 +48,7 @@
                 </div>
             </div>
         </div>
+          <hr class="section-divider" />
     </header>
     <div id="ABOUT" class="cards-1 bg-gray">
         <div class="container">
@@ -117,7 +116,7 @@ hallazgo.</p>
                         <div class="section-title">Pláticas, talleres y competencias hacking</div>
                         <h2>CyberQuest: CTF</h2>
                         <p>¡Participa en nuestro CyberQuest: CTF, penetra vulnerabilidades, hackea y prepárate con nosotros para los eventos más importantes del hacking ético!</p>
-                        <a class="btn-solid-reg" href="#contact">inscríbete</a>
+                        <a class="btn-solid-reg" href="#contact">Inscríbete</a>
                         <p>No tienes que tener experiencia!</p>
                     </div>
                 </div>
@@ -126,7 +125,7 @@ hallazgo.</p>
     </div>
     <hr class="section-divider" />
 
-        <div class="container">
+        <div id="ABOUT" class="container">
             <div class="row">
                 <div class="col-xl-12">
                     <h2 class="h2-heading">REGLAS Y RECURSOS</h2>
@@ -206,17 +205,17 @@ hallazgo.</p>
     </div>
 
     <hr class="section-divider" />
-    ]
-    <div class="basic-3">
+    
+    <div id="contact" class="basic-3">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
                     <div class="text-container">
-                        <h2>Find the right influencer for your product</h2>
-                        <p class="p-large">Eu convallis arcu ultrices in. Mauris ornare libero et pharetra hendrerit.
-                            Curabitur elementum lectus quis vioc tellus</p>
-                        <a class="btn-solid-lg" href="#contact">Get free quote</a>
-                    </div>
+    <h2>Inscríbete!</h2>
+    <p class="p-large">¡Trae a tu equipo y los esperamos este 21 de noviembre!</p>
+    <a class="btn-solid-lg" href="#contact">Inscribirse</a>
+</div>
+
                 </div>
             </div>
         </div>
@@ -276,11 +275,10 @@ hallazgo.</p>
                     </ul>
                 </div>
                 <div class="col-lg-3 col-md-12 col-sm-12">
-                    <p class="p-small statement">Copyright © <a href="#">Machine Learning Division </a></p>
+                    <p class="p-small statement">Copyright © <a href="#">Ciber | Hack.py</a></p>
                 </div>
                 <div class="col-lg-3 col-md-12 col-sm-12">
-                    <p class="p-small statement">Distributed by <a href="https://masukmia.com" target="_blank">Machine
-                            Learning Division </a></p>
+                    <p class="p-small statement">Distributed by <a href="https://masukmia.com" target="_blank">Ciber | Hack.py</a></p>
                 </div>
             </div>
         </div>
