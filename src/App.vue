@@ -133,14 +133,14 @@ hallazgo.</p>
                 </div>
             </div>
             <div class="row">
-                <div class="col-xl-5">
+                <div class="col-xl-12">
                     <div class="accordion" id="accordionExample">
 
 
                         <div class="accordion-item">
-                            <div class="accordion-icon">
+                            <!-- <div class="accordion-icon">
                                 <span class="fas fa-tv"></span>
-                            </div>
+                            </div> -->
                             <div class="accordion-header" id="headingOne">
                                 <button class="accordion-button" type="button" data-bs-toggle="collapse"
                                     data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
@@ -155,9 +155,9 @@ hallazgo.</p>
 
 
                         <div class="accordion-item">
-                            <div class="accordion-icon blue">
+                            <!-- <div class="accordion-icon blue">
                                 <span class="fas fa-microphone"></span>
-                            </div>
+                            </div> -->
                             <div class="accordion-header" id="headingTwo">
                                 <button class="accordion-button" type="button" data-bs-toggle="collapse"
                                     data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
@@ -172,9 +172,9 @@ hallazgo.</p>
 
 
                         <div class="accordion-item">
-                            <div class="accordion-icon purple">
+                            <!-- <div class="accordion-icon purple">
                                 <span class="fas fa-video"></span>
-                            </div>
+                            </div> -->
                             <div class="accordion-header" id="headingThree">
                                 <button class="accordion-button" type="button" data-bs-toggle="collapse"
                                     data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
@@ -192,9 +192,9 @@ hallazgo.</p>
 
 
                         <div class="accordion-item">
-                            <div class="accordion-icon orange">
+                            <!-- <div class="accordion-icon orange">
                                 <span class="fas fa-tools"></span>
-                            </div>
+                            </div> -->
                             <div class="accordion-header" id="headingFour">
                                 <button class="accordion-button" type="button" data-bs-toggle="collapse"
                                     data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
@@ -211,11 +211,11 @@ hallazgo.</p>
 
                     </div>
                 </div>
-                <div class="col-xl-7">
+                <!-- <div class="col-xl-7">
                     <div class="image-container">
                         <img class="img-fluid" src="assets/images/features-dashboard.png" alt="alternative" />
                     </div>
-                </div>
+                </div> -->
             </div>
         </div>
     </div>
