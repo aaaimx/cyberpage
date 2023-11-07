@@ -47,7 +47,7 @@
                 </div>
             </div>
         </div>
-          <hr class="section-divider" />
+          
     </header>
     <div id="ABOUT" class="cards-1 bg-gray">
         <div class="container">
