@@ -33,10 +33,9 @@
             <div class="row">
                 <div class="col-lg-6 col-xl-5">
                     <div class="text-container">
-                        <h1 class="h1-large">𝐶𝑖𝑏𝑒𝑟 | 𝐻𝑎𝑐𝑘.𝑝𝑦</h1>
+                        <h1 class="h1-large">CyberQuest: CTF presentado por Ciber | Hack.py </h1> 
                         <p class="p-large">
-𝐶𝑖𝑏𝑒𝑟|𝐻𝑎𝑐𝑘.𝑝𝑦 es un vibrante club estudiantil formado por apasionados del hacking ético y la ciberseguridad. En nuestro club, fomentamos el aprendizaje, la colaboración y la exploración de las disciplinas relacionadas con la seguridad informática. Nuestra comunidad está compuesta por estudiantes y entusiastas que comparten un interés común en fortalecer sus habilidades, entender las amenazas cibernéticas y promover prácticas seguras en línea.
-                            
+𝐶𝑖𝑏𝑒𝑟 | 𝐻𝑎𝑐𝑘.𝑝𝑦 PRESENTA CyberQuest: CTF, un evento de CTF diseñado para prepararte y entrenarte con miras a participar en los eventos más importantes de hacking ético en 2024.                             
                         </p>
                         <a class="btn-solid-lg" href="#ABOUT">EVENTS</a>
                     </div>
