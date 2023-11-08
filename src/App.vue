@@ -185,7 +185,8 @@ hallazgo.</p>
                             </div>
                             <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree"
                                 data-bs-parent="#accordionExample">
-                                <div class="accordion-body">Revisa las reglas con el siguiente link: <a href="https://docs.google.com/document/d/1OXAkXlavLfXSruqgv_IwdfAG2kuhxR3D/edit">Cick aqui para ver las reglas/</a></div>
+                                <div class="accordion-body">Revisa las reglas:<a href="assets/images/Bases_CyberQuestCTF.pdf" download>Click aquí</a></div>
+
                             </div>
                         </div>
 
