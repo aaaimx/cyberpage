@@ -53,7 +53,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
-                    <h2>ENTRENA CON NOSOTROS Y PARTICIPA EN LOS EVENTOS MÁS DESTACADOS DE HACKING ÉTICO DEL 2024</h2>
+                    <h2>ENTRENA CON NOSOTROS Y PARTICIPA EN LOS EVENTOS MÁS DESTACADOS DEL HACKING ÉTICO DEL 2024</h2>
                 </div>
             </div>
             <div class="row">
