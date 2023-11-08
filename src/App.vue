@@ -257,18 +257,18 @@ hallazgo.</p>
     <div class="copyright bg-gray">
         <div class="container">
             <div class="row">
-                <div class="col-lg-6 col-md-12 col-sm-12">
+             <!--   <div class="col-lg-6 col-md-12 col-sm-12">
                     <ul class="list-unstyled li-space-lg p-small">
                         <li><a href="#">Article RESOURCES</a></li>
                         <li><a href="#">Terms & Conditions</a></li>
                         <li><a href="#">Privacy Policy</a></li>
                     </ul>
-                </div>
+                </div> -->
                 <div class="col-lg-3 col-md-12 col-sm-12">
                     <p class="p-small statement">Copyright © <a href="#">Ciber | Hack.py</a></p>
                 </div>
                 <div class="col-lg-3 col-md-12 col-sm-12">
-                    <p class="p-small statement">Distributed by <a href="https://masukmia.com" target="_blank">Ciber | Hack.py</a></p>
+                    <p class="p-small statement">Distributed by <a href="#" target="_blank">Ciber | Hack.py</a></p>
                 </div>
             </div>
         </div>
