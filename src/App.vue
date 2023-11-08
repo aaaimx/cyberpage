@@ -212,8 +212,8 @@ hallazgo.</p>
             <div class="row">
                 <div class="col-lg-12">
                     <div class="text-container">
-    <h2>Inscríbete!</h2>
-    <p class="p-large">¡Trae a tu equipo y los esperamos este 21 de noviembre!</p>
+    <h2>¡Inscríbete!</h2>
+    <p class="p-large">¡Inscribe a tu equipo y los esperamos este 21 de noviembre!</p>
   <a class="btn-solid-lg" href="https://forms.gle/3Ex2K1TCHhZKUvGSA">Inscribirse</a>
 </div>
 
