@@ -1,7 +1,7 @@
 <template>
     <nav id="navbarExample" class="navbar navbar-expand-lg fixed-top navbar-light" aria-label="Main navigation">
         <div class="container">
-            <a class="navbar-brand logo-text" href="#">Ciber | Hack.py</a>
+            <a class="navbar-brand logo-text" href="#">Ciber | Hack.py y CyberQuest:CTF</a>
             <button class="navbar-toggler p-0 border-0" type="button" id="navbarSideCollapse"
                 aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
@@ -9,21 +9,21 @@
             <div class="navbar-collapse offcanvas-collapse" id="navbarsExampleDefault">
                 <ul class="navbar-nav ms-auto navbar-nav-scroll">
                     <li class="nav-item">
-                        <a class="nav-link active" aria-current="page" href="#header">HOME</a>
+                        <a class="nav-link active" aria-current="page" href="#header">INICIO</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#ABOUT">EVENTS</a>
+                        <a class="nav-link" href="#ABOUT">EVENTOS</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#RESOURCES">RESOURCES</a>
+                        <a class="nav-link" href="#RESOURCES">CYBERQUESt</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#features">RULES AND RESOURCES</a>
+                        <a class="nav-link" href="#features">REGLAS Y RECURSOS</a>
                     </li>
                    
                 </ul>
                 <span class="nav-item">
-                    <a class="btn-solid-sm" href="#contact">JOIN UP</a>
+                    <a class="btn-solid-sm" href="#contact">INSCRÍBETE</a>
                 </span>
             </div>
         </div>
