@@ -53,7 +53,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
-                    <h2>Entrena y participa en los eventos más destacados del hacking ético</h2>
+                    <h2>ENTRENA CON NOSOTROS Y PARTICIPA EN LOS EVENTOS MÁS DESTACADOS DE HACKING ÉTICO DEL 2024</h2>
                 </div>
             </div>
             <div class="row">
@@ -65,7 +65,7 @@
                         <div class="card-body">
                             <h5 class="card-title">YUCATÁN I6 2024</h5>
                               <img class="img-fluid" src="assets/images/Yucatan6.png" alt="alternative" width="70%" />
-                            <p>El “Capture The Flag Yucatán i6 2024” es un concurso dedicado a las tácticas, técnicas y procedimientos del hacking ético para la identificación y explotación de vulnerabilidades, tanto físicas como digitales. Para más información, consulta la convocatoria.</p>
+                            <p>El “Capture The Flag Yucatán i6” es un concurso dedicado a las tácticas, técnicas y procedimientos del hacking ético para la identificación y explotación de vulnerabilidades, tanto físicas como digitales. Para más información, consulta la convocatoria.</p>
                         
                         </div>
                     </div>
