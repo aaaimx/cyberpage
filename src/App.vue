@@ -15,7 +15,7 @@
                         <a class="nav-link" href="#ABOUT">EVENTOS</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#RESOURCES">CYBERQUESt</a>
+                        <a class="nav-link" href="#RESOURCES">CYBERQUEST</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="#features">REGLAS Y RECURSOS</a>
