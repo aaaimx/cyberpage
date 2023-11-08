@@ -34,7 +34,7 @@
                 <div class="col-lg-6 col-xl-5">
                     <div class="text-container">
                         <h1 class="h1-large">CyberQuest:CTF</h1> 
-                          <h1 class="h1-large">EDICIÓN 2023</h1> 
+                          <h1 class="h1-large">Edición 2023</h1> 
                         <p class="p-large">
 𝐶𝑖𝑏𝑒𝑟 | 𝐻𝑎𝑐𝑘.𝑝𝑦 PRESENTA CyberQuest: CTF, un evento de CTF diseñado para prepararte y entrenarte con miras a participar en los eventos más importantes de hacking ético en 2024.                             
                         </p>
