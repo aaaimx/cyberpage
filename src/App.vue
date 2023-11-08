@@ -37,7 +37,7 @@
                         <p class="p-large">
 𝐶𝑖𝑏𝑒𝑟 | 𝐻𝑎𝑐𝑘.𝑝𝑦 PRESENTA CyberQuest: CTF, un evento de CTF diseñado para prepararte y entrenarte con miras a participar en los eventos más importantes de hacking ético en 2024.                             
                         </p>
-                        <a class="btn-solid-lg" href="#ABOUT">EVENTS</a>
+                        <a class="btn-solid-lg" href="#ABOUT">EVENTOS 2024</a>
                     </div>
                 </div>
                 <div class="col-lg-6 col-xl-7">
