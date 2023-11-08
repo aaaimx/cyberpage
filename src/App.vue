@@ -117,7 +117,7 @@ hallazgo.</p>
                         <h2>CyberQuest: CTF</h2>
                         <p>¡Participa en nuestro CyberQuest: CTF, penetra vulnerabilidades, hackea y prepárate con nosotros para los eventos más importantes del hacking ético!</p>
                         <a class="btn-solid-reg" href="#contact">Inscríbete</a>
-                        <p>No tienes que tener experiencia!</p>
+                        <p>¡No tienes que tener experiencia!</p>
                     </div>
                 </div>
             </div>
