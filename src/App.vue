@@ -34,7 +34,7 @@
                 <div class="col-lg-6 col-xl-5">
                     <div class="text-container">
                         <h1 class="h1-large">CyberQuest:CTF</h1> 
-                      <h2>2023</h2>
+                          <h1 class="h1-large">EDICIÓN 2023</h1> 
                         <p class="p-large">
 𝐶𝑖𝑏𝑒𝑟 | 𝐻𝑎𝑐𝑘.𝑝𝑦 PRESENTA CyberQuest: CTF, un evento de CTF diseñado para prepararte y entrenarte con miras a participar en los eventos más importantes de hacking ético en 2024.                             
                         </p>
@@ -54,7 +54,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
-                    <h2>ENTRENA CON NOSOTROS Y PARTICIPA EN LOS EVENTOS MÁS DESTACADOS DEL HACKING ÉTICO DEL 2024</h2>
+                    <h2>ENTRENA CON NOSOTROS Y PARTICIPA EN LOS EVENTOS MÁS DESTACADOS DEL HACKING ÉTICO DE 2024</h2>
                 </div>
             </div>
             <div class="row">
@@ -66,7 +66,7 @@
                         <div class="card-body">
                             <h5 class="card-title">YUCATÁN I6 2024</h5>
                               <img class="img-fluid" src="assets/images/Yucatan6.png" alt="alternative" width="70%" />
-                            <p>El “Capture The Flag Yucatán i6” es un concurso dedicado a las tácticas, técnicas y procedimientos del hacking ético para la identificación y explotación de vulnerabilidades, tanto físicas como digitales. Para más información, consulta la convocatoria.</p>
+                            <p>El “Capture The Flag Yucatán i6” es un concurso dedicado a las tácticas, técnicas y procedimientos del hacking ético para la identificación y explotación de vulnerabilidades, tanto físicas como digitales.</p>
                         
                         </div>
                     </div>
@@ -79,7 +79,7 @@
                         <div class="card-body">
                             <h5 class="card-title">HackHowl</h5>
                               <img class="img-fluid" src="assets/images/HackHowlV2.png" alt="alternative" width="70%" />
-                            <p>Evento de Captura la Bandera (CTF) y Recompensa por Bugs (Bug Bounty) organizado por la AAAIMX. Prepárate para armar tu equipo y poner a prueba tus habilidades. </p>
+                            <p>Evento de Captura la Bandera (CTF) y Recompensa por Bugs (Bug Bounty) organizado por el AAAIMX. Prepárate para armar tu equipo y poner a prueba tus habilidades. </p>
                            
                         </div>
                     </div>
@@ -230,31 +230,21 @@ hallazgo.</p>
                         - Bruce Schneier</h4>
                     <div class="social-container">
                         <span class="fa-stack">
-                            <a href="#your-link">
+                            <a href="https://www.facebook.com/aaaimx/">
                                 <i class="fas fa-circle fa-stack-2x"></i>
                                 <i class="fab fa-facebook-f fa-stack-1x"></i>
                             </a>
                         </span>
+
+    
                         <span class="fa-stack">
-                            <a href="#your-link">
-                                <i class="fas fa-circle fa-stack-2x"></i>
-                                <i class="fab fa-twitter fa-stack-1x"></i>
-                            </a>
-                        </span>
-                        <span class="fa-stack">
-                            <a href="#your-link">
-                                <i class="fas fa-circle fa-stack-2x"></i>
-                                <i class="fab fa-pinterest-p fa-stack-1x"></i>
-                            </a>
-                        </span>
-                        <span class="fa-stack">
-                            <a href="#your-link">
+                            <a href="https://www.instagram.com/aaaimx">
                                 <i class="fas fa-circle fa-stack-2x"></i>
                                 <i class="fab fa-instagram fa-stack-1x"></i>
                             </a>
                         </span>
                         <span class="fa-stack">
-                            <a href="#your-link">
+                            <a href="https://www.youtube.com/@aaaimx1650">
                                 <i class="fas fa-circle fa-stack-2x"></i>
                                 <i class="fab fa-youtube fa-stack-1x"></i>
                             </a>
